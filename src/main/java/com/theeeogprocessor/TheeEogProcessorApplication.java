@@ -9,5 +9,4 @@ public class TheeEogProcessorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TheeEogProcessorApplication.class, args);
 	}
-
 }
